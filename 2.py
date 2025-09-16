@@ -9,6 +9,7 @@ var4=1.8
 print ("mi nombre es x.w")
 
 suma=var2+var3
-print (suma)
+print (suma)este es un codigo para suma
 print (var2+var3)
 print ("el resultado de la suma de var2+var3 es ",suma)
+
