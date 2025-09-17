@@ -18,7 +18,7 @@ print ("error de introduccion)
 nombre=input("introduce tu nombre")
 apellido1=input("indruduce tu segundo apellido") 
 apellido2=input("introduce tu primero apellido")
-#he definido una nueva variable nombre_completo (recuerda que los variables no
+#he definido una nueva variable nombre_completo 
 nombre_completo=nombre + " " + apellido1 + apellido
 #en este caso de la variables
 print(nombre_completo)
@@ -34,3 +34,4 @@ modulo_division=var2@var3
 print(f"el resto de division de (var2) / (var3) es igual a ", modulo_division)
 potencia=var2**var3)
 printf"la potencia de (var2) * (var3) es igual a ", potencia)
+
