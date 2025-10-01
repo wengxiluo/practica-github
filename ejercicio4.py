@@ -1,21 +1,13 @@
 #programa4
-var1=3.5#este es valor de numero
-var2=3
-var3=3.2
-var4=3.1
-print(var1)
-print(var2)
-print("3.5+3=")
-suma1=var1+var2#codigo de suma valor
-print("resulta")
-print (suma1)
-print(var3)
-print(var4)
-print("3.2+3.1=")
-print("resulta")
-suma2=(var3+var4)
-print(suma2)
-print=(var3+var4)#codigo para suma
+var1=input("introduce el primer numero")
+var2=input("introduce el segundo numero")
+resultado=int(var1)+(var2)
+print(f"la suma de (var1)+(var2)es igual a ",resultado)
+var3=input("introduce el tercero numero")
+var4=input("introduce el cuarto numero")
+resultado1=int(var3)+(var4)
+print(f"la suma de (var3)+(var4)es igual a ",resultado1)
+
 
 
 
