@@ -9,6 +9,9 @@ multiplicacion=var1*var2
 print(f"la multiplicacion de (var1) * (var2) es igual a ", multiplicacion)
 division=var1/var2
 print(f"la division de (var1) / (var2) es igual a ", division)
-modulo_division=var1@var2
-print(f"el resto de division de (var2) / (var2) es igual a ", modulo_division)
+division entero=var1//var2
+print(f"el   division entero de (var2) // (var2) es igual a ", division entero)
+exponents=var1**var2
+print(f"el   exponents de (var2) // (var2) es igual a ", enponents)
+
 
